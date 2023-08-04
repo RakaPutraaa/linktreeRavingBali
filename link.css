@@ -1,0 +1,19 @@
+body {
+    /* background-color: #e5e5f7;
+    opacity: 0.8;
+    background-image: radial-gradient(#444cf7 0.65px, #e5e5f7 0.65px);
+    background-size: 13px 13px; */
+    background: linear-gradient(to right, #000046, #1cb5e0);   
+}
+
+.link {
+    background-color: white;
+}
+
+.text {
+    color: white;
+}
+
+.all-content {
+    margin-top: 100px;
+}
